@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+body {
+  background: black;
+}
+
+#myClock {
+  margin-top: 40%;
+  color: #17D4FE;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  border: 1px solid #17D4FE;
+  border-radius: 10px;
+  text-align: center;
+
+}
+#textDiv{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+  background: #17D4FE;
+  color: black;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 0 5px;
+  font-weight: bold;
+  font-size: 15px;
+  
+}
